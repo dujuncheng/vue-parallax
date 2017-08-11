@@ -1,6 +1,11 @@
 # vue_parallax
 
-> A Vue.js project
+> 基于vue构建的视差滚动组件，非常方便
+
+
+## 预览效果
+
+
 
 ## Build Setup
 

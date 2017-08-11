@@ -4,7 +4,7 @@
 
 
 ## 预览效果
-
+![](http://image.dydata.io/RGpopAMHD8RmYhFLcL54S8.gif)
 
 
 ## Build Setup
